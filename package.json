@@ -21,7 +21,7 @@
     "@ashleycaselli/gulp-stylelint": "13.0.2",
     "gulp-watch": "5.0.1",
     "sass": "1.50.1",
-    "stylelint": "14.7.1"
+    "stylelint": "15.11.0"
   },
   "repository": {
     "type": "git",
