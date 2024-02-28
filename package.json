@@ -4,7 +4,7 @@
   "description": "",
   "engines": {
     "node": "16.14.2",
-    "npm": "8.7.0"
+    "npm": "9.9.3"
   },
   "scripts": {
     "build": "gulp lint && gulp css",
