@@ -14,7 +14,7 @@
   "devDependencies": {
     "@wordpress/stylelint-config": "20.0.2",
     "autoprefixer": "10.4.4",
-    "gulp": "4.0.2",
+    "gulp": "5.0.0",
     "gulp-livereload": "4.0.2",
     "gulp-postcss": "9.0.1",
     "gulp-sass": "5.1.0",
