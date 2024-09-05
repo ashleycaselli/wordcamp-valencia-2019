@@ -12,7 +12,7 @@
     "lint": "stylelint sass"
   },
   "devDependencies": {
-    "@wordpress/stylelint-config": "20.0.2",
+    "@wordpress/stylelint-config": "22.7.0",
     "autoprefixer": "10.4.4",
     "gulp": "4.0.2",
     "gulp-livereload": "4.0.2",
