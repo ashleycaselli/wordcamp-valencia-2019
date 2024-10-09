@@ -31,7 +31,7 @@ jobs:
         npm run build
     
     - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v3.0.0
+      uses: actions/upload-artifact@v4.4.3
       with:
         name: style
         path: style.css
